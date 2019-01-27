@@ -3,8 +3,6 @@
 
 <img src="public/img/screenshot.png">
 
-##YouTube:- https://youtu.be/mcEllLB7YRU
-
 ## Project Clone
 ```
 1)git clone https://github.com/vermaboys/dynamically-add-or-remove-input-fields-using-Jquery-laravel.git
